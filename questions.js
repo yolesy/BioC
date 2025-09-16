@@ -333,7 +333,7 @@ const questions = [
       "Fructose-2,6, bisphosphate",
       "Hydroxybutirate"
     ],
-    "answer": "Hydroxybutirate"
+    "answer": "כל התשובות נכונות"
   },
   {
     "question": "מהו הסובסטרט של האנזים UDP-glucose phosphorylase?",
